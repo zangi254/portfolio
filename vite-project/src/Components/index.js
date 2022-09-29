@@ -1,0 +1,11 @@
+export { default as Navbar } from "./Navbar";
+export { default as Contact } from "./Contact";
+export { default as Testimonials } from "./Testimonials";
+export { default as HireMe } from "./HireMe";
+export { default as About } from "./About";
+export { default as Login } from "./Login";
+export { default as Projects } from "./Projects";
+export { default as Blog } from "./Blog";
+import {default as Footer } from "./Footer";
+import {default as Register } from './Register';
+import {default as Education } from './Education';
